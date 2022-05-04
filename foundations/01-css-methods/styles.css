@@ -1,0 +1,9 @@
+body div {
+  background-color: red;
+  color: white;
+  font-size: 46px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  padding: 16px;
+  text-align: center;
+}
